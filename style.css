@@ -24,8 +24,8 @@ body{
     padding: 20px;
     margin: 5px;
     box-shadow: 
-        10px 10px 20px rgba(0, 0, 0, 0.2),  /* Lapisan bayangan pertama */
-        20px 20px 30px rgba(0, 0, 0, 0.3); /* Lapisan bayangan kedua */
+        10px 10px 20px rgba(0, 0, 0, 0.2),  
+        20px 20px 30px rgba(0, 0, 0, 0.3); 
     transition: transform 0.3s ease;
     justify-content: center;
 }
@@ -55,12 +55,12 @@ body{
 }
 
 .input-container1 input {
-    width: 420px; /* Atur lebar */
-    height: 40px; /* Atur tinggi */
-    padding: 10px; /* Spasi dalam (padding) untuk kenyamanan */
-    border: 2px solid #ccc; /* Atur tepi (border) */
-    border-radius: 5px; /* Membuat sudut membulat */
-    font-size: 16px; /* Atur ukuran teks di dalam input */
+    width: 420px; 
+    height: 40px; 
+    padding: 10px; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    font-size: 16px; 
     justify-content: center;
     align-items: center;
 }
@@ -68,12 +68,12 @@ body{
 .input-container input {
     justify-content: center;
     align-items: center;
-    width: 420px; /* Atur lebar */
-    height: 10px; /* Atur tinggi */
-    padding: 10px; /* Spasi dalam (padding) untuk kenyamanan */
-    border: 2px solid #ccc; /* Atur tepi (border) */
-    border-radius: 5px; /* Membuat sudut membulat */
-    font-size: 16px; /* Atur ukuran teks di dalam input */
+    width: 420px; 
+    height: 10px; 
+    padding: 10px; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    font-size: 16px; 
     display: flex;
     
 }
